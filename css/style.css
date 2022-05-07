@@ -12,6 +12,19 @@ body {
     background-color: #1a1a1a;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
 .logo {
     max-width: 50px;
     max-height: 50px;
@@ -20,4 +33,9 @@ body {
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
+    padding-left: 7px;
+    padding-right: 7px;
+    color: #fff;
+    margin-left: 5px;
+    margin-top: 5px;
 }
