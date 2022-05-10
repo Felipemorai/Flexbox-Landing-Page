@@ -60,5 +60,15 @@ h1 {
     color: #fff;
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 20px;
     font-weight: 400;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
 }
