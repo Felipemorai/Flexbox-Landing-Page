@@ -55,3 +55,10 @@ header {
     padding-right: 7px;
     color: #fff;
 }
+
+h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 400;
+}
